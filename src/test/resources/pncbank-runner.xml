@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="amazon test">
+    <parameter name="browserName" value="chrome"></parameter>
+    <parameter name="url" value="https://www.Amazon.com/"></parameter>
+
+    <test name="amazon test">
+        <classes>
+<!--            <class name=""></class>-->
+<!--            <class name=""></class>-->
+
+        </classes>
+    </test>
+</suite>
